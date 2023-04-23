@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arc0nso1e.
+# 👋 Hi, I’m Arc0nso1e.
 - 👀 I’m interested in GameDevelopment and Algorithm.
 - 🌱 I’m currently learning C++ and QT and JavaScript.
 - 💞️ I’m looking to collaborate on ...
